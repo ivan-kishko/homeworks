@@ -1,5 +1,6 @@
 .chat {
-    background: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png") no-repeat fixed;
+    background: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png") no-repeat center center fixed;
+    background-size: cover;
 }
 
 .sendArea {
