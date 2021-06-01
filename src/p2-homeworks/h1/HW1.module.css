@@ -1,0 +1,29 @@
+.chat {
+    background: url("https://www.desktopbackground.org/download/1600x900/2011/05/17/204392_tm-wallpapers-wide-wallpapers-e-hd-wallpapers-one-color-wide_1920x1080_h.jpg") no-repeat fixed;
+}
+
+.sendArea {
+    display: grid;
+    grid-template-areas: 't b';
+    width: 407px;
+}
+
+.text {
+    grid-area: t;
+    margin-left: 10px;
+    background-color: midnightblue;
+    color: white;
+    border: 1px solid black;
+    width: 349px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.button {
+    grid-area: b;
+    margin-left: 6px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
