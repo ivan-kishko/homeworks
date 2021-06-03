@@ -33,6 +33,7 @@
 .link:hover {
     color: white;
 }
+
 .navButton {
     height: 24px;
     margin-left: 5px;
@@ -49,16 +50,4 @@
 
 }
 
-/*.navButtonHide {*/
-/*    transform: translate(0vw);*/
-/*    transition: transform 1s;*/
-/*}*/
-
-/*.navButtonAppear {*/
-/*    transform: translate(0vw, 0);*/
-/*    transition: transform 1s;*/
-/*}*/
-
-/*cubic-bezier(0.1, 0.7, 1.0, 0.1);*/
-/*cubic-bezier(0, .52, 0, 1);*/
 
