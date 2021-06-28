@@ -12,6 +12,7 @@ function Clock() {
     }
     const start = () => {
         stop()
+        //id for clear interval
         const id: number = window.setInterval(() => {
             // setDate
             setDate(new Date())
