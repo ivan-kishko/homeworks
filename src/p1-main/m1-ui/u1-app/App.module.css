@@ -1,4 +1,5 @@
 .App {
     background: url("img/lXIS7a.jpg") no-repeat center center fixed;
     background-size: cover;
+    min-height: 100vh;
 }
