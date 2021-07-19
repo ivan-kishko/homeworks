@@ -1,0 +1,37 @@
+.default {
+    background: none;
+}
+.default-text {
+    color: black;
+}
+
+.dark {
+    background: black;
+}
+.dark-text {
+    color: white;
+}
+
+.orange-black {
+    background: orange;
+}
+.orange-black-text {
+    color: black;
+}
+
+.maroon-peach {
+    background: maroon;
+}
+.maroon-peach-text {
+    color: peachpuff;
+}
+
+.beige-blue {
+    background: darkblue;
+}
+.beige-blue-text {
+    color: burlywood;
+}
+
+
+

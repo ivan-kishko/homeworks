@@ -1,10 +1,11 @@
 import React from 'react'
+import HW12 from "../../h12/HW12";
 
 function JuniorPlus() {
     return (
         <div>
             There will be JuniorPlus level homeworks
-            {/*<HW12/>*/}
+            <HW12/>
 
         </div>
     )

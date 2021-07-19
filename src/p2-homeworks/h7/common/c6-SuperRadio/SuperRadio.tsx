@@ -32,7 +32,7 @@ const SuperRadio: React.FC<SuperRadioPropsType> = (
                 onChange={onChangeCallback}
                 // name, checked, value, onChange
             />
-            {o}
+            {`${o} `}
         </label>
     )) : []
 
