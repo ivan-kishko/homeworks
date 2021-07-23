@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 import classes from './Message.module.css'
 
 export type MessageDataProps = {
@@ -14,7 +14,7 @@ function Message(props: MessageDataProps) {
         <div>
             <div className={classes.message}>
                 <div className={classes.image}>
-                    <img src={props.avatar}/>
+                    <img src={props.avatar} alt={"avatar"}/>
                 </div>
                 <div className={classes.name}>
                     {props.name}
